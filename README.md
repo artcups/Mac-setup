@@ -87,7 +87,7 @@ SequelPro is installed via apps.sh if you're running the init.sh script with a f
 	$ chmod u+x apps.sh # make it executable
 	$ apps.sh # run it
   
-  #### ST3 Packages
+#### ST3 Packages
 1. theme-default
 2. brogrammer
 3. sidebar-enhnacemnets
