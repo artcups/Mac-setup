@@ -118,3 +118,12 @@ SequelPro is installed via apps.sh if you're running the init.sh script with a f
 23. jekyll
 24. trimmer
 25. syncedSidebar
+
+
+### Sketc 2
+``
+https://sketchapp.com``
+
+### PHPStorm
+
+### Parallels
